@@ -1,0 +1,5 @@
+.background-image {
+    background-image: url(../images/star-pic.jpg);
+    background-size: contain;
+    background-position: center;
+}

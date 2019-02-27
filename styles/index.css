@@ -1,5 +1,14 @@
 .background-image {
     background-image: url(../images/star-pic.jpg);
-    background-size: contain;
+    background-size: cover;
     background-position: center;
+    height: 1000px;
 }
+.top-page {
+    font-family: 'Press Start 2P', cursive;
+}
+
+.into .navbar {
+    display: inline-block;
+}
+
